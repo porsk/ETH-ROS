@@ -1,4 +1,4 @@
-## Exercise
+## Exercise 3
 The goal of this exercise was to close the control loop for the Husky robot. I extracted the
 position of a pillar from the laser scan and then controled the robot such that it drove into the
 pillar.

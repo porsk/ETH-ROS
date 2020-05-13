@@ -1,4 +1,4 @@
-## Exercise
+## Exercise 2
 In this exercise, I created my first ROS package. The package is able to subscribe to a laser scan message from the Husky robot and process the incoming data.
 
 ## Result demonstration

@@ -1,4 +1,4 @@
-## Exercise
+## Exercise 4
 The goal of this exercise was to work with data that was recorded on a real Husky robot. The
 recorded bag file contained sensor measurements from wheel odometry, inertial
 measurement unit (IMU) and laser scanner. The task was to use this raw sensor data to
