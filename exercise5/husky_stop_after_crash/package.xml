@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>husky_highlevel_controller</name>
+  <name>husky_stop_after_crash</name>
   <version>0.1.0</version>
-  <description>The husky_highlevel_controller package</description>
+  <description>The husky_stop_after_crash package</description>
   <maintainer email="p.krisztian@outlook.com">Ors-Krisztian Patakfalvi</maintainer>
   <license>BSD</license>
   <author email="p.krisztian@outlook.com">Ors-Krisztian Patakfalvi</author>

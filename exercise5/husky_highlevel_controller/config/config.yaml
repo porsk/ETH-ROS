@@ -1,0 +1,4 @@
+husky:
+   scan_subscriber_topic_name: /scan
+   scan_subscriber_queue_size: 1
+   control_gain: 0.5

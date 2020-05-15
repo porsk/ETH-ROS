@@ -1,0 +1,8 @@
+<launch>
+	<node
+		name="husky_stop_after_crash"
+		pkg="husky_stop_after_crash"
+		type="husky_stop_after_crash"
+		output="screen">		
+	</node>
+</launch>
